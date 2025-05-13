@@ -1,7 +1,6 @@
-<h1 align="center">🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 </h1>
 <h1 align="center">Hi 👋, I'm Chad</h1> 
 <h3 align="center">Senior Collaboration Systems Engineer at Peloton based in Madison, WI</h3>
-🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 
+🚧 Updates in Progress 🚧
 <!--
 **chad-ramey/chad-ramey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
