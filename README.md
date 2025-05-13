@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Chad</h1>
-<h3 align="center">Senior Collaboration Systems Engineer at Peloton based in Madison, WI</h3>
+🚧 <h1 align="center">Hi 👋, I'm Chad</h1> 🚧 
+🚧 <h3 align="center">Senior Collaboration Systems Engineer at Peloton based in Madison, WI</h3> 🚧 
 
 <!--
 **chad-ramey/chad-ramey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+🤖 Some of the scripts in this repository were developed in collaboration with an AI language model. Please review and test thoroughly. 🤖
