@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<align="center">🤖 Some of the scripts in this repository were developed in collaboration with an AI language model. Please review and test thoroughly. 🤖</align>
+🤖 Some of the scripts in this repository were developed in collaboration with an AI language model. Please review and test thoroughly. 🤖
